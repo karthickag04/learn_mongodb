@@ -1,0 +1,2 @@
+Chat Ref for database creation and collections under mongoDB
+https://chatgpt.com/share/68caa51a-3664-800b-94ae-367c8d684fc4
