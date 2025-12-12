@@ -1,3 +1,6 @@
+All MongoDb Commads/Methods/Operators list
+https://chatgpt.com/share/693bbca6-6190-800b-a851-c019dc6e6a12
+
 Chat Ref for database creation and collections under mongoDB
 https://chatgpt.com/share/68caa51a-3664-800b-94ae-367c8d684fc4
 
