@@ -7,5 +7,8 @@ https://chatgpt.com/share/68caa51a-3664-800b-94ae-367c8d684fc4
 chat ref added for Find
 https://chatgpt.com/share/68cc0352-868c-800b-8326-4d9d1f47f78a
 
+chat ref added for Food Orderning System with insert, and detailed exploration with Find() using its arguments
+https://chatgpt.com/share/693fa6e9-07dc-800b-9666-9e323f2f0176
+
 Chat ref added for Update
 https://chatgpt.com/share/68cd5044-3778-800b-a804-63c54d9c1bab
