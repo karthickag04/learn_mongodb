@@ -1,5 +1,7 @@
 All MongoDb Commads/Methods/Operators list
 https://chatgpt.com/share/693bbca6-6190-800b-a851-c019dc6e6a12
+part - 2 : All MongoDb Commads/Methods/Operators list with agg explored deep
+https://chatgpt.com/share/69d8fa4a-7cf8-83e8-8d0c-0333343706be
 
 Chat Ref for database creation and collections under mongoDB
 https://chatgpt.com/share/68caa51a-3664-800b-94ae-367c8d684fc4
